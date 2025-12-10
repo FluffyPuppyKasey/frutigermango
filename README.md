@@ -7,4 +7,4 @@ sudo dnf install --nogpgcheck --repofrompath 'terra,https://repos.fyralabs.com/t
 sudo dnf install rofi alacritty swww swaybg waybar mako grim wl-clipboard cava wlogout fontawesome-fonts-all mangowc
 ```
 
-Download this repo as a ZIP, extract all to `$HOME/.config`
+Download this repo as a ZIP, extract all directories to `$HOME/.config`. Colour scheme file goes in `$HOME/.local/share/color-schemes`
