@@ -1,0 +1,52 @@
+[font]
+size = 10.0
+
+[font.normal]
+family = "LiberationMono"
+#style = "SemiBold"
+
+[window]
+opacity = 0.8
+
+[window.padding]
+x = 4
+y = 4
+
+[selection]
+save_to_clipboard = true
+
+[colors]
+
+[colors.primary]
+background = "#0D141C"
+foreground = "#d3dcf9"
+
+[colors.normal]
+black = "#0d141c"
+red = "#9486fb"
+green = "#b57cfa"
+yellow = "#6fa0fd"
+blue = "#6ba8df"
+magenta = "#74b9fa"
+cyan = "#7cccf9"
+white = "#84e0f4"
+
+[colors.bright]
+black = "#a9b3cb"
+red = "#a197fd"
+green = "#be8efc"
+yellow = "#82adfe"
+blue = "#80b3e4"
+magenta = "#88c2fb"
+cyan = "#8fd3fa"
+white = "#97e4f5"
+
+[colors.dim]
+black = "#939cb3"
+red = "#645cb0"
+green = "#7b56af"
+yellow = "#496fb1"
+blue = "#47749d"
+magenta = "#4d80af"
+cyan = "#528daf"
+white = "#589aab"
