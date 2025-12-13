@@ -67,7 +67,7 @@
         "interval": 1,
 	"format": "{ifname}",
         "format-wifi": "   {signalStrength}%",
-        "format-ethernet": " ",
+        "format-ethernet": "",
         "format-disconnected": "",
         "tooltip-format": " {ifname} via {gwaddri}",
         "tooltip-format-wifi": "   {essid} ({signalStrength}%)",
@@ -131,4 +131,3 @@
         "ignored-players": ["firefox", "plasma-browser-integration"]
   }
 }
-
