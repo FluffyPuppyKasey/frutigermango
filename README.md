@@ -4,7 +4,8 @@ Fedora install:
 ```bash
 sudo dnf update
 sudo dnf install --nogpgcheck --repofrompath 'terra,https://repos.fyralabs.com/terra$releasever' terra-release
-sudo dnf install rofi alacritty swww swaybg waybar mako grim wl-clipboard cava wlogout fontawesome-fonts-all mangowc
+sudo dnf copr enable erikreider/swayosd
+sudo dnf install rofi alacritty swww swaybg waybar mako grim wl-clipboard cava wlogout fontawesome-fonts-all mangowc swayosd
 ```
 
 In order to get your monitor(s) set up you'll need to follow the MangoWC monitor rules.
